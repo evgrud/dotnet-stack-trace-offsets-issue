@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ILOffsetProblem", "ILOffsetProblem.csproj", "{3FBE5FC5-AC07-46D9-880E-D3FDA84E82A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ILOffsetIssue", "ILOffsetIssue.csproj", "{3FBE5FC5-AC07-46D9-880E-D3FDA84E82A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
