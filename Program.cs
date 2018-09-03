@@ -33,6 +33,7 @@ namespace ILOffset
             {
                 c += i;
             }
+            //Below line is crafted for the issue to occur
             Console.WriteLine(NullReturner.ReturnNull("nevermind").Length);
         }
     }    
