@@ -18,6 +18,7 @@ namespace ILOffset
 
         public void Crash()
         {
+            //Below code is to emphasize the distance between the stack trace and the exception location
             Console.WriteLine("In Crash");
             int c = 0;
             for (int i = 0; i < 100; i++)
@@ -28,7 +29,7 @@ namespace ILOffset
             {
                 c += i;
             }
-            for (int i = 0; i < 300; i++)
+            for (int i = 0; i < 2; i++)
             {
                 c += i;
             }
